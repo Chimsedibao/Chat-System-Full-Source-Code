@@ -1,0 +1,23 @@
+# Visual Studio cache & build files
+.vs/
+x64/
+Debug/
+Release/
+*.obj
+*.pdb
+*.user
+*.aps
+*.idb
+*.ipch
+*.tlog
+*.ncb
+*.suo
+
+# File chạy thực thi (Không up lên)
+*.exe
+*.dll
+*.lib
+
+# Database & Log (Dữ liệu riêng tư)
+*.db
+*.log
