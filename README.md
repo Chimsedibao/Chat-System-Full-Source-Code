@@ -72,3 +72,7 @@ Nếu bạn đang tìm hiểu code của dự án này, đây là những gì b�
    ```cmd
    sc create TU_LANH binPath= "C:\ServiceChat\ChatServer.exe"
    sc start TU_LANH
+Bước 2: Client
+Chạy Client_Khach.exe.
+
+Đăng ký -> Đăng nhập -> Chat!
